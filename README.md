@@ -1,117 +1,89 @@
-# HTML_CSS_TeamMembers 
+# To-Do List in React JS
 
+To-Do List in React JS. 
 
-## Description
-Project aims to create team members within html and css.
+- [x] Add Tasks to the list
+- [x] Mark Completed Tasks
+- [x] Delete Tasks
+- [x] Store the list to Local Storage / Get the list from Local Storage
+- [x] Edit Tasks
+- [x] Filter Tasks with All/Active/Done Buttons
+- [x] Show Today's Date (day,month,date,year) on the top 
+- [x] Drag and Drop Tasks
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[TeamMembers](https://muharremgem.github.io/HTML_CSS_TeamMembers/)| Html Css  |![crewin](./images/images/images/team_members1.gif)
+** Credit: React beautiful dnd Documentation examples - https://github.com/atlassian/react-beautiful-dnd/blob/master/docs/about/examples.md
 
+# Where To Try
 
-## Problem Statement
-- Your company has recently started a project to promote its employees on its website. So you and your colleagues will promote it on the project.
+https://positive235.github.io/todolist-react/
 
-## Project Design
+# Getting Started with Create React App
 
-- <a href="https://www.figma.com/file/HXULRJVkPlaCpxQlbm82bX/Project001?node-id=6%3A4">https://www.figma.com/file/HXULRJVkPlaCpxQlbm82bX/Project001?node-id=6%3A4<a>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Project Skeleton 
+## Available Scripts
 
-```
-001-Team members (folder)
-|----images
-|----readme.md                 
-|----index.html  
-|----style.css   
-       
-```
+In the project directory, you can run:
 
-## Expected Outcome
+### `npm start`
 
-## Objective
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Functionally create a Team members as in the image above
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-### At the end of the project, following topics are to be covered;
+### `npm test`
 
-- HTML Forms-Input Types 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- HTML Form Elements
+### `npm run build`
 
-- CSS Colors-Border Properties
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-- CSS Margins-Padding
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-- CSS Properties for Texts-Font Families-Links
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
 
-### At the end of the project, students will be able to;
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-- improve coding skills within HTML & CSS
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-## Steps to Solution
-  
-- Step 1: Download or clone project repo on Github 
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-- Step 2: Create project folder for local public repo on your pc
+## Learn More
 
-- Step 3: Create Team members
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
->>Part-1 HTML Structure
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-	- Creat structure of the HTML5
-	- Give name of your project (title)
-	- Create the main structure of the container (div id="container")
-	- Create Main Topic of the project (id="title")
-	- Create a description of your project (id="description")
-	- Create a form (id="team-members")
-	
+### Code Splitting
 
->>Part-2 CSS Structure
-	- Set a background and define font-color="white"
-	- Set container background color and margin
-	- Define "title" and "description" color-size-padding etc...
-	- Define "team-members" color-size-padding etc..
-	- Define labels color-size-padding etc... (Tips: id="name", "email", "number" ...)
-	- Set class color-size-padding-margin etc...
-	- Define id="submit" color-size-padding etc...
-	
-- Step 4: Push your application into your own public repo on Github
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-- Step 5: Deploy your application on Github template to showcase your app within your team.
+### Analyzing the Bundle Size
 
-## Notes
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-- You can use HTML,and CSS to complete this project.
+### Making a Progressive Web App
 
-## Resources
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
--  [Background Image Url](./background_image.jpg)
+### Advanced Configuration
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-<center> &#8987; Happy Coding  &#9997; </center>
+### Deployment
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
+### `npm run build` fails to minify
 
-<br/>
-<div align='center'>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me...)](https://git.io/typing-svg)
-<p align="left">
-  <a href="https://www.linkedin.com/in/muharremgem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muharrem gem" height="30" width="40" /></a>
-<a href=" " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="muharrem gem" height="30" width="40" /></a>  
-  <a href="https://app.netlify.com/teams/muharremgem/overview" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg" alt="muharrem gem" height="30" width="40" /></a>
-<a href="https://twitter.com/muharremgem28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
-<a href="https://www.secure.instagram.com/muharrem__gem/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Muharrem gem" height="30" width="40" /></a>
-<a href="https://dashboard.heroku.com/apps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/heroku.svg" alt="muharrem gem" height="30" width="40" /></a>
-<a href="https://vercel.com/dashboard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vercel.svg" alt="muharrem gem" height="30" width="40" /></a>
-<a href="https://www.sololearn.com/profile/25898969" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/sololearn.svg" alt="muharrem gem" height="30" width="40" /></a>
-<a href="https://www.figma.com/files/recent?fuid=1146789494867946996" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/figma.svg" alt="muharrem gem" height="30" width="40" /></a>
-  
-
-
-</div>
-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
